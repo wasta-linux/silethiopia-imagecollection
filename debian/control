@@ -1,0 +1,13 @@
+Source: silethiopia-imagecollection
+Section: doc
+Priority: optional
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://www.silethiopia.org
+
+Package: silethiopia-imagecollection
+Architecture: all
+Depends: ${misc:Depends}
+Description: SIL Ethiopia Image Collection for SIL Software
+ Drawings to use with Bloom and other SIL Software

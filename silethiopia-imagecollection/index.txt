@@ -1,0 +1,467 @@
+filename	subfolder	en	am	artist
+Ale-0001.png	Segen	boys,eating,bowl,Ale,Ethiopia,Segen		Senait Worku
+Ale-0002.png	Segen	woman,old,bowl,carrying,Ale,Ethiopia,Segen		Senait Worku
+Ale-0003.png	Segen	man,boy,angry,yell,sick,Ale,Ethiopia,Segen		Senait Worku
+Ale-0004.png	Segen	woman,boy,sitting,Ale,Ethiopia,Segen		Senait Worku
+Ale-0005.png	Segen	man,donkey,loaded,Ale,Ethiopia,Segen		Senait Worku
+Ale-0006.png	Segen	children,boys,washing,hands,water,hygiene,Ale,Ethiopia,Segen		Senait Worku
+Ale-0007.png	Segen	carving,statue,wood,Ale,Ethiopia,Segen		Senait Worku
+Ale-0008.png	Segen	girls,greeting,hugging,Ethiopia,Ale,Segen		Senait Worku
+Ale-0009.png	Segen	boys,men,greeting,hugging,Ethiopia,Ale,Segen		Senayit Worku
+Ale-0010.png	Segen	children,eating,field,Ethiopia,Ale,Segen		Senait Worku
+Ale-0011.png	Segen	parents,children,respect,Ethiopia,Ale,Segen		Senait Worku
+Ale-0012.png	Segen	children,sitting,listening,talking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0013.png	Segen	woman,boy,weeding,pumpkin,Ethiopia,Ale,Segen		Senait Worku
+Ale-0014.png	Segen	boys,man,ball,talking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0015.png	Segen	boys,rain,running,Ethiopia,Ale,Segen		Senait Worku
+Ale-0016.png	Segen	old man,boy,greeting,respect,Ethiopia,Ale,Segen		Senait Worku
+Ale-0017.png	Segen	man,boy,hay,Ethiopia,Ale,Segen		Senait Worku
+Ale-0018.png	Segen	boy,dishwashing,injera,Ethiopia,Ale,Segen		Senait Worku
+Ale-0019.png	Segen	girl,walking,pumpkin,Ethiopia,Ale,Segen		Senait Worku
+Ale-0020.png	Segen	man,boy,sitting,talking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0021.png	Segen	man,woman,boy,clothes,store,Ethiopia,Ale,Segen		Senait Worku
+Ale-0022.png	Segen	boy,inside,sweeping,floor,Ethiopia,Ale,Segen		Senait Worku
+Ale-0023.png	Segen	young woman,standing,Ethiopia,Ale,Segen		Senait Worku
+Ale-0024.png	Segen	old woman,sheep,walking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0025.png	Segen	girl,sheep,walking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0026.png	Segen	old woman,girl,sheep,walking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0027.png	Segen	woman,boy,outside,house,sweeping,Ethiopia,Ale,Segen		Senait Worku
+Ale-0028.png	Segen	girl,boy,dog,playing,Ethiopia,Ale,Segen		Senait Worku
+Ale-0029.png	Segen	girl,boy,sticks,gathering,Ethiopia,Ale,Segen		Senait Worku
+Ale-0030.png	Segen	man,stick,cow,calf,Ethiopia,Ale,Segen		Senait Worku
+Ale-0031.png	Segen	goats,boy,sweeping,Ethiopia,Ale,Segen		Senait Worku
+Ale-0032.png	Segen	old woman,girl,mango,giving,Ethiopia,Ale,Segen		Senait Worku
+Ale-0033.png	Segen	boy,girl,bananas,eating,sitting,Ethiopia,Ale,Segen		Senait Worku
+Ale-0034.png	Segen	old man,stick,cows,walking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0035.png	Segen	old man,boy,standing,talking,cow,Ethiopia,Ale,Segen		Senait Worku
+Ale-0036.png	Segen	boy,girl,coffee,roasting,fire,Ethiopia,Ale,Segen		Senait Worku
+Ale-0037.png	Segen	boys,trees,planting,Ethiopia,Ale,Segen		Senait Worku
+Ale-0038.png	Segen	girl,boys,trees,planting,Ethiopia,Ale,Segen		Senait Worku
+Ale-0039.png	Segen	girl,trees,planting,Ethiopia,Ale,Segen		Senait Worku
+Ale-0040.png	Segen	boy,hat,tree,planting,Ethiopia,Ale,Segen		Senait Worku
+Ale-0041.png	Segen	boy,tree,planting,Ethiopia,Ale,Segen		Senait Worku
+Ale-0042.png	Segen	man,sick,sneezing,standing,Ethiopia,Ale,Segen		Senait Worku
+Ale-0043.png	Segen	boy,outside,house,sweeping,Ethiopia,Ale,Segen		Senait Worku
+Ale-0044.png	Segen	hut,traditional,Ethiopia,Ale,Segen		Senait Worku
+Ale-0045.png	Segen	man,horse,riding,Ethiopia,Ale,Segen		Tagessu Tagenu
+Ale-0046.png	Segen	boy,washing,hygiene,sitting,Ethiopia,Ale,Segen		Senait Worku
+Ale-0047.png	Segen	boy,stick,crippled,disabled,Ethiopia,Ale,Segen		Senait Worku
+Ale-0048.png	Segen	woman,skirt,traditional,walking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0049.png	Segen	teacher,female,watching,children,playing,Ethiopia,Ale,Segen		Senait Worku
+Ale-0050.png	Segen	hut,old,poverty,family,poor,Ethiopia,Ale,Segen		Senait Worku
+Ale-0051.png	Segen	boy,house,inside,sweeping,Ethiopia,Ale,Segen		Senait Worku
+Ale-0052.png	Segen	girl,boy,banana,planting,Ethiopia,Ale,Segen		Senait Worku
+Ale-0053.png	Segen	young woman,pumpkin,carrying,walking,Ethiopia,Ale,Segen		Senait Worku
+Ale-0054.png	Segen	men,boys,house,standing,looking,Ethiopia,Ale,Segen		Senait Worku
+Baale-0001.png	BenchMaji	woman,child,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0002.png	BenchMaji	woman,child,elder,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0003.png	BenchMaji	children,shephered,goats,flock,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0004.png	BenchMaji	woman,child,food,grain,corn,grinding,flour,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0005.png	BenchMaji	woman,child,corn,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0006.png	BenchMaji	children,butterfly,butterflies,field,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0007.png	BenchMaji	child,fall,traffic,crossing,crosswalk,safety,police,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0008.png	BenchMaji	child,sad,hunters,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0009.png	BenchMaji	stickfight,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0010.png	BenchMaji	mushrooms,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Baale-0011.png	BenchMaji	corn,cook,fire,burn,Ethiopia,Suri-Baale,BenchMaji		Senait Worku
+Berta-0001.png	BenishangulGumuz	house,hut,traditional,Ethiopia,Berta,Benishangul-Gumuz		Senait Worku
+Berta-0002.png	BenishangulGumuz	procession,parade,planting,Ethiopia,Berta,Benishangul-Gumuz		Senait Worku
+Berta-0003.png	BenishangulGumuz	people,sitting,Ethiopia,Berta,Benishangul-Gumuz		Senait Worku
+Berta-0004.png	BenishangulGumuz	family,eating,meal,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0005.png	BenishangulGumuz	water,spill,leak,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0006.png	BenishangulGumuz	water,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0007.png	BenishangulGumuz	water,fill,container,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0008.png	BenishangulGumuz	sick,baby,woman,diarrhea,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0009.png	BenishangulGumuz	water,fence,building,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0010.png	BenishangulGumuz	water,spill,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0011.png	BenishangulGumuz	doctor,hospital,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0012.png	BenishangulGumuz	bank,deposit,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0013.png	BenishangulGumuz	bank,deposit,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0014.png	BenishangulGumuz	women,deposit,savings,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0015.png	BenishangulGumuz	woman,child,crying,sick,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0016.png	BenishangulGumuz	market,buying,selling,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0017.png	BenishangulGumuz	women,food,bowls,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0018.png	BenishangulGumuz	women,carrying,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0019.png	BenishangulGumuz	women,market,buying,selling,vegetables,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0020.png	BenishangulGumuz	girl,boy,eating,meal,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0021.png	BenishangulGumuz	girl,boy,sick,stomach,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0022.png	BenishangulGumuz	girl,boy,sad,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0023.png	BenishangulGumuz	boy,girl,happy,village,talking,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0024.png	BenishangulGumuz	boy,girl,happy,standing,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0025.png	BenishangulGumuz	women,sitting,drinking,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0026.png	BenishangulGumuz	girl,boy,playing,ball,village,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0027.png	BenishangulGumuz	woman,child,bath,hygiene,childcare,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0028.png	BenishangulGumuz	farm,tractor,grain,harvest,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0029.png	BenishangulGumuz	farm,tractor,grain,hay,harvest,reaping,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0030.png	BenishangulGumuz	farm,grain,hay,harvest,reaping,cow,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0031.png	BenishangulGumuz	farm,grain,selling,buying,harvest,cow,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0032.png	BenishangulGumuz	grain,sad,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0033.png	BenishangulGumuz	conference,speech,lecture,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0034.png	BenishangulGumuz	tractor,plowinng,field,Ethiopia,Berta,BenishangulGumuz		Senait Worku
+Berta-0035.png	BenishangulGumuz	man,cows,field,plowing,driving,Ethiopia,Berta,BenishangulGumuz	Senait Worku
+Berta-0036.png	BenishangulGumuz	huts,traditional,compound,women,broom,sweeping,yard,Ethiopia,Berta,BenishangulGumuz	Senait Worku
+Berta-0037.png	BenishangulGumuz	women,sitting,waiting,vaccination,nurse,clinic,Ethiopia,Berta,BenishangulGumuz	Senait Worku
+Berta-0038.png	BenishangulGumuz	mothers,women,babies,vaccination,nurse,tree,Ethiopia,Berta,BenishangulGumuz	Senait Worku
+BG-0001.png	BenishangulGumuz	woman,dress,sitting,Ethiopia,BenishangulGumuz		Senait Worku
+BG-0002.png	BenishangulGumuz	woman,planting,farming,Ethiopia,BenishangulGumuz		Senait Worku
+BG-0003.png	BenishangulGumuz	woman,hoeing,farming,Ethiopia,BenishangulGumuz		Senait Worku
+BG-0004.png	BenishangulGumuz	woman,women,farming,planting,hoeing,Ethiopia,BenishangulGumuz		Senait Worku
+BG-0005.png	BenishangulGumuz	woman,women,market,buying,selling,onions,Ethiopia,BenishangulGumuz		Senait Worku
+BG-0006.png	BenishangulGumuz	woman,women,onions,Ethiopia,BenishangulGumuz		Senait Worku
+BG-0007.png	BenishangulGumuz	woman,livestock,feeding,watering,goats,cows,Ethiopia,BenishangulGumuz		Senait Worku
+BG-0008.png	BenishangulGumuz	farm,field,crops,growing		Senait Worku
+BG-0009.png	BenishangulGumuz	woman,women,market,buying,selling,onions,Ethiopia,BenishangulGumuz		Senait Worku
+BM-0001.png	BenchMaji	woman,child,pouch,Ethiopia,BenchMaji		Senait Worku
+BM-0002.png	BenchMaji	celebration,drum,chant,Ethiopia,BenchMaji		Senait Worku
+BM-0003.png	BenchMaji	children,rain,shelter,Ethiopia,BenchMaji		Senait Worku
+BM-0004.png	BenchMaji	children,Ethiopia,BenchMaji		Senait Worku
+BM-0005.png	BenchMaji	mother,child,walking,village,road,Ethiopia,BenchMaji		Senait Worku
+BM-0006.png	BenchMaji	accident,motorcycle,traffic,hurt,injury,Ethiopia,BenchMaji		Senait Worku
+BM-0007.png	BenchMaji	pot,pottery,buy,sell,Ethiopia,BenchMaji		Senait Worku
+BM-0008.png	BenchMaji	injury,bleeding,leg,friend,hurt,Ethiopia,BenchMaji		Senait Worku
+BM-0009.png	BenchMaji	animals,domestic,cat,cow,goat,hen,Ethiopia,BenchMaji		Senait Worku
+BM-0010.png	BenchMaji	animals,wild,lion,leopard,hyena,fox,Ethiopia,Benchmaji		Senait Worku
+Borna-0001.png	BenishangulGumuz	women,spinning,thread,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0002.png	BenishangulGumuz	women,talking,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0003.png	BenishangulGumuz	women,spinning,thread,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0004.png	BenishangulGumuz	man,woman,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0005.png	BenishangulGumuz	man,clothes,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0006.png	BenishangulGumuz	woman,livestock,shepherd,goats,cows,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0007.png	BenishangulGumuz	women,conference,talking,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0008.png	BenishangulGumuz	women,grinding,flour,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0009.png	BenishangulGumuz	women,sitting,talking,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0010.png	BenishangulGumuz	woman,bath,hygiene,childcare,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0011.png	BenishangulGumuz	children,playing,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0012.png	BenishangulGumuz	woman,spinning,thread,children,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0013.png	BenishangulGumuz	woman,sick,children,hospital,doctor,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0014.png	BenishangulGumuz	women,sitting,talking,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0015.png	BenishangulGumuz	woman,children,family,eating,meal,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0016.png	BenishangulGumuz	children,playing,ball,sport,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0017.png	BenishangulGumuz	village,houses,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0018.png	BenishangulGumuz	village,houses,river,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0019.png	BenishangulGumuz	men,fence,building,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0020.png	BenishangulGumuz	cleaning,garbage,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0021.png	BenishangulGumuz	cleaning,garbage,village,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0022.png	BenishangulGumuz	women,cows,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0023.png	BenishangulGumuz	garbage,trash,litter,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0024.png	BenishangulGumuz	man,sick,bed,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0025.png	BenishangulGumuz	doctor,hospital,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0026.png	BenishangulGumuz	cleaning,garbage,trash,disposal,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0027.png	BenishangulGumuz	women,spinning,thread,Ethiopia,Borna,Shinasha,BenishangulGumuz		Senait Worku
+Borna-0028.png	BenishangulGumuz	family,sad,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0029.png	BenishangulGumuz	women,sitting,talking,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0030.png	BenishangulGumuz	factory,smoke,pollution,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0031.png	BenishangulGumuz	woman,girl,alone,lonely,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0032.png	BenishangulGumuz	beehives,honey,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0033.png	BenishangulGumuz	outhouse,lavatory,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0034.png	BenishangulGumuz	corn,maize,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0035.png	BenishangulGumuz	diarrhea,defecate,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0036.png	BenishangulGumuz	watches,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0037.png	BenishangulGumuz	family,happy,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0038.png	BenishangulGumuz	cleaning,sweeping,garbage,building,outhouse,sanitation,Ethiopia,BenishangulGumuz		
+Borna-0039.png	BenishangulGumuz	grain,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0040.png	BenishangulGumuz	sick,ill,diarrhea,fever,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0041.png	BenishangulGumuz	woman,bath,wash,hair,clean,hygiene,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0042.png	BenishangulGumuz	chicken,rooster,eggs,meat,poultry,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0043.png	BenishangulGumuz	chickens,coop,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0044.png	BenishangulGumuz	measurement,ruler,scale,measuring,tape,Ethiopia,BenishangulGumuz		
+Borna-0045.png	BenishangulGumuz	scale,weigh,measurement,measuring,weight,Ethiopia,BenishangulGumuz		
+Borna-0046.png	BenishangulGumuz	woman,sitting,old,man,bench,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0047.png	BenishangulGumuz	vegetables,lettuce,tomatoes,carrots,onions,potatoes,cabbage,Ethiopia,BenishangulGumuz		
+Borna-0048.png	BenishangulGumuz	hut,roof,thatch,build,house,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0049.png	BenishangulGumuz	forest,birds,nests,weaver,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0050.png	BenishangulGumuz	men,women,reaching,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0051.png	BenishangulGumuz	cell,phone,mobile,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0052.png	BenishangulGumuz	farming,planting,weeding,agriculture,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Borna-0053.png	BenishangulGumuz	farming,weeding,threshing,agriculture,Ethiopia,Borna,Shinasha,BenishangulGumuz		
+Dirasha-0001.png	Segen	boy,girl,bowl,food,eating,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0002.png	Segen	woman,cooking,girl,boy,watching,firewood,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0003.png	Segen	boys,running,spear,forest,goat,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0004.png	Segen	boys,music,panpipes,playing,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0005.png	Segen	boy,girl,stools,table,sitting,eating,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0006.png	Segen	boys,basket,harvesting,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0007.png	Segen	woman,sitting,girl,boy,watching,talking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0008.png	Segen	boy,woman,firewood,stacking,storage,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0009.png	Segen	girl,sitting,grain,huts,yard,compound,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0010.png	Segen	boys,ground,sitting,playing,drinking,pot,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0011.png	Segen	donkeys,boy,pole,tie,tether,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0012.png	Segen	girl,spitting,classroom,school,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0013.png	Segen	boy,sitting,body,washing,girl,standing,hair,washing,clothes,drying,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0014.png	Segen	girl,boy,bed,cat,chasing away,yelling,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0015.png	Segen	boys,lemon tree,shaking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0016.png	Segen	boys,goats,hut,yard,sweeping,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0017.png	Segen	market,women,man,donkey,carrying,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0018.png	Segen	man,woman,helping,wood,loading,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0019.png	Segen	woman,teacher,boys,playing,ball,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0020.png	Segen	woman,teacher,girls,playing,ball,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0021.png	Segen	man,donkey,walking,carrying,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0022.png	Segen	moringa trees,boy,watching,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0023.png	Segen	girl,standing,basket,carrying,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0024.png	Segen	house,hut,tradition,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0025.png	Segen	hut,girl,sitting,grain,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0026.png	Segen	hut,cow,camel,compound,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0027.png	Segen	boys,friends,sack,tree,sitting,talking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0028.png	Segen	field,repairing,erosion,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0029.png	Segen	boy,girl,standing,lemon tree,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0030.png	Segen	tradition,basket,pot,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0031.png	Segen	boy,tree,fruit,eating,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0032.png	Segen	boys,sticks,grain,thresh,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0033.png	Segen	music,instrument,pipe,Ethiopia,Dirasha,Segen		Izabela Karpienia
+Dirasha-0034.png	Segen	boys,goat,blood,slaughter,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0035.png	Segen	music,instrument,pipe,small,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0036.png	Segen	teacher,female,boys,girls,play,ball,group,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0037.png	Segen	boys,play,ball,run,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0038.png	Segen	hut,tradition,construction,men,ladder,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0039.png	Segen	woman,sitting,cooking,stirring,pot,fire,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0040.png	Segen	boys,sitting,hugging,friendship,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0041.png	Segen	boys,sitting,playing,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0042.png	Segen	boy,girl,sitting,food,eating,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0043.png	Segen	boys,washing hands,water,tap,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0044.png	Segen	boy,girl,standing,teeth,brushing,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0045.png	Segen	boy,girl,stones,river,clothes,laundry,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0046.png	Segen	woman,sitting,pot,stick,stirring,fire,preparing food,goats,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0047.png	Segen	boys,sitting,watching,cows,basket,feeding,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0048.png	Segen	man,bedroom,bed,blanket,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0049.png	Segen	children,boys,girl,cows,pasture,watching,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0050.png	Segen	boy,sitting,eating,cow,standing,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0051.png	Segen	children,watching,learning,talking,woman,cooking,stirring,pot,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0052.png	Segen	children,woman,cooking,waiting,watching,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0053.png	Segen	woman,children,pot,pouring out,food,watching,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0054.png	Segen	woman,children,pot,food,serving,watching,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0055.png	Segen	woman,children,food,cooking,sitting,waiting,talking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0056.png	Segen	woman,children,table,seats,food,eating,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0057.png	Segen	girl,boy,holding,papaya,standing,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0058.png	Segen	children,boy,tall,papaya,picking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0059.png	Segen	boy,squatting,planting,papaya,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0060.png	Segen	students,friends,boys,girl,talking,joking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0061.png	Segen	boy,girl,papaya tree,watching,fruit,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0062.png	Segen	girl,squatting,planting,papaya,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0063.png	Segen	boy,girl,squatting,planting,papaya,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0064.png	Segen	boy,girl,tree,sitting,drinking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0065.png	Segen	schoolchildren,boy,talking,listening,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0066.png	Segen	students,girl,boys,talking,joking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0067.png	Segen	disabled boy,boys,girl,students,walking,talking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0068.png	Segen	boy,girl,rat,collecting,sticks,firewood,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0069.png	Segen	boy,girl,firewood,carrying,walking,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0070.png	Segen	boy,girl,woman,watching,learning,helping,moringa,food preparation,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0071.png	Segen	boy,girl,woman,food preparation,watching,learning,injera,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0072.png	Segen	hut,straw,grass,traditional,construction,man,working,Ethiopia,Dirasha,Segen		
+Dirasha-0073.png	Segen	boy,girl,table,stools,tray,food,eating,sitting,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0074.png	Segen	toilet,hygiene,boy,girl,washing hands,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0075.png	Segen	girls,clothes,river,water,stones,washing,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0076.png	Segen	boy,girl,cleaning,burning,trash,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0077.png	Segen	boy,cows,driving,stone fence,Ethiopia,Dirasha,Segen		Senait Worku
+Dirasha-0078.png	Segen	girl,standing,pot,stick,stirring,fire,preparing food,goats,Ethiopia,Dirasha,Segen		Senait Worku
+Konso-0001.png	Segen	men,wood,chopping,cutting,animals,running away,turtle,crocodile,raptiles,Ethiopia,Konso,Segen		Senait Worku
+Konso-0002.png	Segen	women,girls,hugging,greeting,standing,Ethiopia,Konso,Segen		Sanait Worku
+Konso-0003.png	Segen	girls,fetch,water,jerrycan,river,going,Ethiopia,Konso,Segen		Sanait Worku
+Konso-0004.png	Segen	woman,sitting,cooking,boy,helping,dishwashing,Ethiopia,Konso,Segen		Sanait Worku
+Konso-0005.png	Segen	boy,girl,stones,river,clothes,laundry,Ethiopia,Konso,Segen		Senait Worku
+Konso-0006.png	Segen	boy,standing,walking,hut,pointing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0007.png	Segen	children,boys,girls,meeting,greeting,Ethiopia,Konso,Segen		Senait Worku
+Konso-0008.png	Segen	woman,girl,sitting,talking,listening,Ethiopia,Konso,Segen		Senait Worku
+Konso-0009.png	Segen	man,woman,girl,picking,pepper,Ethiopia,Konso,Segen		Senait Worku
+Konso-0010.png	Segen	girls,meeting,hugging,greeting,Ethiopia,Konso,Segen		Senait Worku
+Konso-0011.png	Segen	girl,head,hairstyle,braids,Ethiopia,Konso,Segen		Senait Worku
+Konso-0012.png	Segen	girl,boy,standing,greeting,Ethiopia,Konso,Segen		Senait Worku
+Konso-0013.png	Segen	girl,boy,standing,looking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0014.png	Segen	tradition,hut,garner,granary,Ethiopia,Konso,Segen		Senait Worku
+Konso-0015.png	Segen	man,standing,looking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0016.png	Segen	river,water,hills,Ethiopia,Konso,Segen		Senait Worku
+Konso-0017.png	Segen	boy,standing,pointing,finger,Ethiopia,Konso,Segen		Senait Worku
+Konso-0018.png	Segen	boy,walking,hut,Ethiopia,Konso,Segen		Senait Worku
+Konso-0019.png	Segen	boy,girl,sweeping,cleaning,Ethiopia,Konso,Segen		Senait Worku
+Konso-0020.png	Segen	boy,girl,sitting,bowl,eating,flies,Ethiopia,Konso,Segen		Senait Worku
+Konso-0021.png	Segen	girl,boy,woman,sick,drinking,comfort,Ethiopia,Konso,Segen		Senait Worku
+Konso-0022.png	Segen	girl,goats,watching,dog,stalks,Ethiopia,Konso,Segen		Senait Worku
+Konso-0023.png	Segen	family,parents,children,Ethiopia,Konso,Segen		Senait Worku
+Konso-0024.png	Segen	old man,grandfather,children,storytelling,listening,Ethiopia,Konso,Segen		Senait Worku
+Konso-0025.png	Segen	hygiene,boy,combing,hair,girl,washing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0026.png	Segen	girl,work,threshing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0027.png	Segen	bed,sick,boy,eating,nutrition,recovery,Ethiopia,Konso,Segen		Senait Worku
+Konso-0028.png	Segen	woman,children,harvesting,pepper,goats,Ethiopia,Konso,Segen		Senait Worku
+Konso-0029.png	Segen	girl,bucket,picking,pepper,Ethiopia,Konso,Segen		Senait Worku
+Konso-0030.png	Segen	granary,work,grinding,stones,Ethiopia,Konso,Segen		Senait Worku
+Konso-0031.png	Segen	boy,crying,girl,compound,huts,Ethiopia,Konso,Segen		Senait Worku
+Konso-0032.png	Segen	girls,sitting,reading,books,Ethiopia,Konso,Segen		Senait Worku
+Konso-0033.png	Segen	woman,cooking,moringa,boys,eating,pot,food,Ethiopia,Konso,Segen		Senait Worku
+Konso-0034.png	Segen	woman,serving,food,children,eating,Ethiopia,Konso,Segen		Senait Worku
+Konso-0035.png	Segen	girl,field,grass,goats,watching,Ethiopia,Konso,Segen		Senait Worku
+Konso-0036.png	Segen	boy,stick,goats,hay,feeding,Ethiopia,Konso,Segen		Senait Worku
+Konso-0037.png	Segen	woman,girl,goats,water,work,Ethiopia,Konso,Segen		Senait Worku
+Konso-0038.png	Segen	compound,chickens,egg,children,Ethiopia,Konso,Segen		Senait Worku
+Konso-0039.png	Segen	children,sitting,eating,food,table,Ethiopia,Konso,Segen		Senait Worku
+Konso-0040.png	Segen	old man,children,blessing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0041.png	Segen	vegetable garden,cabbage,thieves,running,anger,stealing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0042.png	Segen	market,buying,selling,sales,Ethiopia,Konso,Segen		Senait Worku
+Konso-0043.png	Segen	mother,children,students,talking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0044.png	Segen	girls,donkey,falling,crying,helping,Ethiopia,Konso,Segen		Senait Worku
+Konso-0045.png	Segen	winnowing,sieving,work,children,Ethiopia,Konso,Segen		Senait Worku
+Konso-0046.png	Segen	tree,climbing,fruit,picking,students,children,Ethiopia,Konso,Segen		Senait Worku
+Konso-0047.png	Segen	working,helping,children,sweeping,cooking,cleaning,Ethiopia,Konso,Segen		Senait Worku
+Konso-0048.png	Segen	hut,construction,working,building,men,Ethiopia,Konso,Segen		Senait Worku
+Konso-0049.png	Segen	old man,goats,water,tree,Ethiopia,Konso,Segen		Senait Worku
+Konso-0050.png	Segen	boy,running,fear,bag,tree,Ethiopia,Konso,Segen		Senait Worku
+Konso-0051.png	Segen	woods,monkey,girl,fear,running,basket,Ethiopia,Konso,Segen		Senait Worku
+Konso-0052.png	Segen	girls,traditional skirt,playing,game,Ethiopia,Konso,Segen		Senait Worku
+Konso-0053.png	Segen	bed,girl,sitting,drinking,woman,sick,Ethiopia,Konso,Segen		Senait Worku
+Konso-0054.png	Segen	bed,girl,going to sleep,sitting,Ethiopia,Konso,Segen		Senait Worku
+Konso-0055.png	Segen	bed,girl,pillow,blanket,sleeping,dreaming,Ethiopia,Konso,Segen		Senait Worku
+Konso-0056.png	Segen	bed,girl,pillow,blanket,sleeping,dreaming,shirt,Ethiopia,Konso,Segen		Senait Worku
+Konso-0057.png	Segen	bed,girl,pillow,blanket,sleeping,dreaming,dress,Ethiopia,Konso,Segen		Senait Worku
+Konso-0058.png	Segen	bed,girl,pillow,blanket,sleeping,dreaming,skirt,Ethiopia,Konso,Segen		Senait Worku
+Konso-0059.png	Segen	boy,student,school bag,going,school,Ethiopia,Konso,Segen		Senait Worku
+Konso-0060.png	Segen	boy,stone,clothes,water,river,washing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0061.png	Segen	boy,sport clothes,shorts,standing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0062.png	Segen	wooden box,storage,clothes,blankets,folding,boy,Ethiopia,Konso,Segen		Senait Worku
+Konso-0063.png	Segen	boy,standing,shirt,trousers,outfit,casual,Ethiopia,Konso,Segen		Senait Worku
+Konso-0064.png	Segen	boy,bench,standing,clothes,traditional,Ethiopia,Konso,Segen		Senait Worku
+Konso-0065.png	Segen	boy,stool,sitting,book,reading,Ethiopia,Konso,Segen		Senait Worku
+Konso-0066.png	Segen	children,students,desk,sitting,learning,teacher,Ethiopia,Konso,Segen		Senait Worku
+Konso-0067.png	Segen	boys,girl,traditional clothes,meeting,greeting,Ethiopia,Konso,Segen		Senait Worku
+Konso-0068.png	Segen	cow,hitting,harming,girl,falling,hurt,Ethiopia,Konso,Segen		Senait Worku
+Konso-0069.png	Segen	girl,skirt,traditional,floor,sweeping,stools,Ethiopia,Konso,Segen		Senait Worku
+Konso-0070.png	Segen	boy,girl,stool,giving,receiving,sharing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0071.png	Segen	boy,traditional clothes,disabled,handicapped,Ethiopia,Konso,Segen		Senait Worku
+Konso-0072.png	Segen	schoolyard,ball,playing,game,boys,Ethiopia,Konso,Segen		Senait Worku
+Konso-0073.png	Segen	boys,friends,smiling,liking,close,Ethiopia,Konso,Segen		Senait Worku
+Konso-0074.png	Segen	children,playing,game,hide-seek,tin fence,Ethiopia,Konso,Segen		Senait Worku
+Konso-0075.png	Segen	father,son,garden,vegetables,watching,looking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0076.png	Segen	boy,stone,sitting,crying,sad,Ethiopia,Konso,Segen		Senait Worku
+Konso-0077.png	Segen	ginger,garlic,Ethiopia,Konso,Segen		Senait Worku
+Konso-0078.png	Segen	girl,boy,carrying,clothes,traditional,piles,putting away,Ethiopia,Konso,Segen		Senait Worku
+Konso-0079.png	Segen	girl,boy,fighting,tearing,traditional,clothes,Ethiopia,Konso,Segen		Senait Worku
+Konso-0080.png	Segen	girl,boy,fighting,accusing,blaming,yelling,Ethiopia,Konso,Segen		Senait Worku
+Konso-0081.png	Segen	woman,children,boy,girl,making peace,reconcile,Ethiopia,Konso,Segen		Senait Worku
+Konso-0082.png	Segen	girls,students,walking,books,Ethiopia,Konso,Segen		Senait Worku
+Konso-0083.png	Segen	girls,hut,entering,instruments,music,traditional,playing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0084.png	Segen	girls,instruments,music,traditional,playing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0085.png	Segen	man,woman,girls,instruments,music,traditional,playing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0086.png	Segen	instruments,music,traditional,Ethiopia,Konso,Segen		Senait Worku
+Konso-0087.png	Segen	man,boy,garden,plants,walkinch,talking,watching,explaining,Ethiopia,Konso,Segen		Senait Worku
+Konso-0088.png	Segen	man,father,sitting,boy,son,standing,talking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0089.png	Segen	girl,stone,sitting,comb,oil,hair,plaiting,Ethiopia,Konso,Segen		Senait Worku
+Konso-0090.png	Segen	water pipe,running water,boy,washing hair,basin,soap,Ethiopia,Konso,Segen		Senait Worku
+Konso-0091.png	Segen	girl,boy,students,school bag,standing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0092.png	Segen	man,father,boy,son,pain,crying,holding,stomach,bending,Ethiopia,Konso,Segen		Senait Worku
+Konso-0093.png	Segen	man,father,boy,son,pain,crying,holding,stomach,Ethiopia,Konso,Segen		Senait Worku
+Konso-0094.png	Segen	man,father,boy,son,bending,squatting,crying,planting,watching,Ethiopia,Konso,Segen		Senait Worku
+Konso-0095.png	Segen	boy,girl,stones,river,water,clothes,washing,Ethiopia,Konso,Segen		Senait Worku
+Konso-0096.png	Segen	hut,yard,dishwashing,basin,dishes,girl,sitting,Ethiopia,Konso,Segen		Senait Worku
+Konso-0097.png	Segen	woman,girl,stick,pointing,asking,talking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0098.png	Segen	hut,girls,standing,talking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0099.png	Segen	woman,mother,girl,daughter,pointing,pot,asking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0100.png	Segen	woman,mother,girl,daughter,asking,talking,Ethiopia,Konso,Segen		Senait Worku
+Konso-0101.png	Segen	girl,stool,sitting,eating,food,bowl,Ethiopia,Konso,Segen		Senait Worku
+Konso-0102.png	Segen	woman,mother,girl,daughter,holding,hand,telling,Ethiopia,Konso,Segen		Senait Worku
+Konso-0103.png	Segen	dishwashing,basin,dishes,girl,sitting,Ethiopia,Konso,Segen		Senait Worku
+Koorete-0001.png	Segen	boy,small,standing,flute,holding,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0002.png	Segen	boy,small,sitting,flute,holding,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0003.png	Segen	boy,small,sitting,flute,holding,playing,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0004.png	Segen	boys,walking,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0005.png	Segen	children,group,walking,talking,pointing,showing,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0006.png	Segen	woman,mother,girl,daughter,coffee,brewing,cups,jebena,insence,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0007.png	Segen	woman,mother,girl,daughter,coffee,pouring,cups,jebena,insence,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0008.png	Segen	store,shop,shopkeeper,client,girl,shopping,buying,coming,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0009.png	Segen	woman,mother,girl,daughter,coffee,roasting,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0010.png	Segen	woman,mother,sitting,girl,daughter,coming,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0011.png	Segen	woman,mother,girl,daughter,fire,kindling,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0012.png	Segen	girl,ruta,Adam's health,carrying,bringing,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0013.png	Segen	woman,mother,girl,daughter,coffee,brewing,jebena,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0014.png	Segen	woman,mother,girl,daughter,coffee,pouring,cups,jebena,insence,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0015.png	Segen	grass hut,yard,trees,boy,sitting,ground,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0016.png	Segen	boy,girl,mud,plying,dirt,puddle,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0017.png	Segen	boys,girls,ball,playing,game,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0018.png	Segen	boy,girl,wet,rain,shelter,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0019.png	Segen	boys,friends,walking,close,sunset,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0020.png	Segen	boy,snake,defence,self protection,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0021.png	Segen	girls,friends,talking,holding hands,standing,close,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0022.png	Segen	children,boy,girls,eating,monkeys,stealing,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0023.png	Segen	boy,walking,field,beans,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0024.png	Segen	boy,hoe,plant,squatting,planting,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0025.png	Segen	boy,basket,tray,coffee,picking,collecting,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0026.png	Segen	boy,crying,running,thief,money,running away,Ethiopia,Koorete,Segen		Senait Worku
+Koorete-0027.png	Segen	boy,coffee,tree,standing,touching,checking,Ethiopia,Koorete,Segen		Senait Worku
+Meen-0001.png	BenchMaji	boy,girl,rain,school,books,trees,forest,Ethiopia,Meen,BenchMaji		Senait Worku
+Meen-0002.png	BenchMaji	child,fall,traffic,crossing,crosswalk,safety,police,Ethiopia,Meen,BenchMaji		Senait Worku
+Meen-0003.png	BenchMaji	woman,child,jerrycan,water,Ethiopia,Meen,BenchMaji		Senait Worku
+Meen-0004.png	BenchMaji	tailor,clothes,fall,Ethiopia,Meen,BenchMaji		Senait Worku
+Meen-0005.png	BenchMaji	children,fire,burn,hot,Ethiopia,Meen,BenchMaji		Senait Worku
+Meen-0006.png	BenchMaji	procession,parade,horse,celebration,drum,Ethiopia,Meen,BenchMaji		Senait Worku
+Segen-0001.png	Segen	goat,house,hut,Ethiopia,Segen		Senait Worku
+Segen-0002.png	Segen	goat,Ethiopia,Segen		Senait Worku
+Segen-0003.png	Segen	nose,Ethiopia,Segen		Senait Worku
+Segen-0004.png	Segen	goats,grass,Ethiopia,Segen		Senait Worku
+Segen-0005.png	Segen	pumpking,growing,ripe,Ethiopia,Segen		Senait Worku
+Segen-0006.png	Segen	goats,eating,grass,pasture,Ethiopia,Segen		Senait Worku
+Segen-0007.png	Segen	goat,tree,monkeys,squirrels,Ethiopia,Segen		Senait Worku
+Segen-0008.png	Segen	tree,monkeys,squirrels,Ethiopia,Segen		Senait Worku
+Segen-0009.png	Segen	goats,tide up,string,Ethiopia,Segen		Senait Worku
+Segen-0010.png	Segen	domestic animals,ox,cow,donkey,cock,Ethiopia,Dirasha,Segen		Senait Worku
+Segen-0011.png	Segen	boy,stick,standing,Ethiopia,Segen		Senait Worku
+Segen-0012.png	Segen	boy,girl,water,tap,washing hands,Ethiopia,Segen		Senait Worku
+Segen-0013.png	Segen	boy,girl,playing,mud,sitting,Ethiopia,Segen		Senait Worku
+Segen-0014.png	Segen	goat,slaughter,meat,butcher,knife,blood,Ethiopia,Segen		Senait Worku
+Segen-0015.png	Segen	cats,children,feeding,drinking,playing,Ethiopia,Segen		Senait Worku
+Segen-0016.png	Segen	boy,standing,forehead,pointing,Ethiopia,Segen		Senait Worku
+Segen-0017.png	Segen	woman,sick,bed,children,helping,feeding,caring,Ethiopia,Segen		Senait Worku
+Segen-0018.png	Segen	cow,eating,grain,Ethiopia,Segen		Senait Worku
+Segen-0019.png	Segen	cleaning,sweeping,hut,boy,broom,Ethiopia,Segen		Senait Worku
+Segen-0020.png	Segen	hut,cow,woman,carrying,grass,bundle,pack,Ethiopia,Segen		Senait Worku
+Segen-0021.png	Segen	cow,tied up,string,pillar,Ethiopia,Segen		Senait Worku
+Segen-0022.png	Segen	eating,children,bowl,Ethiopia,Segen		Senait Worku
+Segen-0023.png	Segen	boy,pillar,standing,inside,Ethiopia,Segen		Senait Worku
+Segen-0024.png	Segen	boys,ball,friendship,hugging,Ethiopia,Segen		Senait Worku
+Segen-0025.png	Segen	boys,eating,sitting,bowl,Ethiopia,Segen		Senait Worku
+Segen-0026.png	Segen	girl,boy,sitting,bowl,food,eating,Ethiopia,Segen		Senait Worku
+Segen-0027.png	Segen	school,teacher,male,boy,schoolbag,flag,Ethiopia,Segen		Senait Worku
+Segen-0028.png	Segen	school,compound,flag,teacher,helping,students,girls,friends,Ethiopia,Segen		Senait Worku
+Segen-0029.png	Segen	bowl,food,steaming,hot,kurkufa,local,Ethiopia,Segen		Senait Worku
+Segen-0030.png	Segen	hyenas,covered,grass,hiding,approaching,Ethiopia,Segen		Senait Worku
+Segen-0031.png	Segen	zebras,standing,stretching legs,herd,Ethiopia,Segen		Senait Worku
+Segen-0032.png	Segen	zebras,gathering,standing,sadness,Ethiopia,Segen		Senait Worku
+Segen-0033.png	Segen	zebras,standing,laughing,bearing teeth,Ethiopia,Segen		Senait Worku
+Segen-0034.png	Segen	zebras,standing,crying,death,loss,mourning,Ethiopia,Segen		Senait Worku
+Segen-0035.png	Segen	hyenas,standing,crying,sadness,Ethiopia,Segen		Senait Worku
+Segen-0036.png	Segen	hyenas,zebras,death,prey,eating,kill,Ethiopia,Segen		Senait Worku
+Segen-0037.png	Segen	hyenas,zebras,standing,gathering,considering,Ethiopia,Segen		Senait Worku
+Segen-0038.png	Segen	hyenas,plotting,scheming,zebras,waiting,uncertainty,fear,Ethiopia,Segen		Senait Worku
+Segen-0039.png	Segen	hen,pecking,standing,looking,Ethiopia,Segen		Senait Worku
+Segen-0040.png	Segen	hens,pecking,standing,looking,Ethiopia,Segen		Senait Worku
+Segen-0041.png	Segen	hen,baby chickens,sitting,protecting,caring,Ethiopia,Segen		Senait Worku
+Segen-0042.png	Segen	hare,jumping,turtle,looking,tree,meeting,Ethiopia,Segen		Senait Worku
+Segen-0043.png	Segen	hare,turtle,race,run,competition,Ethiopia,Segen		Senait Worku
+Segen-0044.png	Segen	hare,turtle,tree,meeting,talking,conversing,Ethiopia,Segen		Senait Worku
+Segen-0045.png	Segen	hare,turtle,getting ready,race,run,competition,Ethiopia,Segen		Senait Worku
+Segen-0046.png	Segen	snake,hole,habitat,entering,Ethiopia,Segen		Senait Worku
+Segen-0047.png	Segen	needle,thread,sowing,tool,Ethiopia,Segen		Senait Worku
+Segen-0048.png	Segen	bird,raptor,branch,sitting,looking straight,Ethiopia,Segen		Senait Worku
+Segen-0049.png	Segen	bird,raptor,branch,sitting,looking back,Ethiopia,Segen		Senait Worku
+Segen-0050.png	Segen	hen,wings,raised,annoyed,Ethiopia,Segen		Senait Worku
+Segen-0051.png	Segen	hen,sitting,calm,Ethiopia,Segen		Senait Worku
+Segen-0052.png	Segen	hens,pecking,eating,Ethiopia,Segen		Senait Worku
+Segen-0053.png	Segen	boy,goats,water,pipe,running,watering,drinking,Ethiopia,Segen		Senait Worku
+Segen-0054.png	Segen	coffee tree,coffee,Ethiopia,Segen		Senait Worku
+Segen-0055.png	Segen	coffee tree, bending,wind,blowing,Ethiopia,Segen		Senait Worku
+Segen-0056.png	Segen	reptiles,crawling,crocodile,snake,turtle,lizard,gecko,Ethiopia,Segen		Senait Worku
+Segen-0057.png	Segen	reptiles,water,crocodile,snake,turtle,lizard,gecko,Ethiopia,Segen		Senait Worku
+Segen-0058.png	Segen	reptiles,tree,crocodile,snake,turtle,lizard,gecko,Ethiopia,Segen		Senait Worku
+Segen-0059.png	Segen	reptiles,tree,annoyed,crocodile,snake,turtle,lizard,gecko,Ethiopia,Segen		Senait Worku
+Segen-0060.png	Segen	reptiles,crawling,annoyed,crocodile,snake,turtle,lizard,gecko,Ethiopia,Segen		Senait Worku
+Segen-0061.png	Segen	school yard,male teacher,girl,student,book,giving,receiving,Ethiopia,Segen		Senait Worku
+Segen-0062.png	Segen	man,woman,kitchen,cooking,food,pot,fire,stirring,cutting,preparation,Ethiopia,Segen		other
+Sheko-0001.png	BenchMaji	celebration,drum,chant,Ethiopia,Sheko,BenchMaji		Senait Worku
+Shinasha-0001.png	BenishangulGumuz	mothers,babies,winning,bathing,feeding,Ethiopia,Shinasha,BenishangulGumuz	Senait Worku
+Shinasha-0002.png	BenishangulGumuz	women,sitting,talking,advising,Ethiopia,Shinasha,BenishangulGumuz	Senait Worku
+Shinasha-0003.png	BenishangulGumuz	dancing,traditional,holding,following,trumpets,Ethiopia,Shinasha,BenishangulGumuz	Senait Worku
+Shinasha-0004.png	BenishangulGumuz	compound,yard,huts,traditional,cleaning,sweeping,trash,Ethiopia,Shinasha,BenishangulGumuz	Senait Worku
+Shinasha-0005.png	BenishangulGumuz	nurse,vaccination,tree,women,mothers,baby,Ethiopia,Shinasha,BenishangulGumuz	Senait Worku
+Suri-0001.png	BenchMaji	boy,girl,books,school,countryside,Ethiopia,Suri,BenchMaji		Senait Worku
+Suri-0002.png	BenchMaji	fire,cooking,burn,hot,Ethiopia,Suri,BenchMaji		Senait Worku
+Suri-0003.png	BenchMaji	mushrooms,poisonous,forest,Ethiopia,Suri,BenchMaji		Senait Worku
+Suri-0004.png	BenchMaji	children,talking,Ethiopia,Suri,BenchMaji		Senait Worku
+Suri-0005.png	BenchMaji	mother,child,talking,countryside,Ethiopia,Suri,BenchMaji		Senait Worku
+Suri-0006.png	BenchMaji	mother,children,walking,journey,road,path,countryside,Ethiopia,Suri,BenchMaji		Senait Worku
+Suri-0007.png	BenchMaji	child,early,sleeping,waking,Ethiopia,Suri,BenchMaji		Senait Worku
+Suri-0008.png	BenchMaji	school,children,flag,laughing,assembly,Ethiopia,Suri,BenchMaji		Senait Worku
+Suri-0009.png	BenchMaji	children,give,papers,Ethiopia,Suri,BenchMaji		Senait Worku
