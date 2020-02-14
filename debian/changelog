@@ -1,3 +1,9 @@
+silethiopia-imagecollection (0.1.1) bionic; urgency=medium
+
+  * apply batch-unsharp-mask to all images
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 14 Feb 2020 10:14:25 +0300
+
 silethiopia-imagecollection (0.1.0) bionic; urgency=low
 
   * initial release
